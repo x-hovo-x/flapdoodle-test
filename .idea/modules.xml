@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/embedded.mongo.iml" filepath="$PROJECT_DIR$/.idea/modules/embedded.mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/embedded.mongo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/embedded.mongo_main.iml" group="embedded.mongo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/embedded.mongo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/embedded.mongo_test.iml" group="embedded.mongo" />
+    </modules>
+  </component>
+</project>
